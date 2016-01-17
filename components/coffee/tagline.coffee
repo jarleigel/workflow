@@ -1,5 +1,5 @@
 $ = require 'jquery'
 
-do fill = (item = 'The Most creative minds in Art') ->
+do fill = (item = 'The Most Ccreative minds in Art') ->
   $('.tagline').append "#{item}"
 fill
